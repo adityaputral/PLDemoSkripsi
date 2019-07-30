@@ -1,0 +1,7 @@
+#hbox-success {
+    -fx-background-color:#4BB543;
+}
+
+#hbox-failed {
+    -fx-background-color:#ff0000;
+}
